@@ -3,6 +3,7 @@ function App() {
   return (
     <div>
       IMGUR APP
+      
     </div>
   );
 }
