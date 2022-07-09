@@ -9,9 +9,9 @@ export const StyledHeader = styled.header`
     height: 300px;
     color: '#edf2ef';
 `
-// export const NavBar = styled.nav`
-//     display: flex;
-// `
+export const NavBar = styled.nav`
+    display: flex;
+`
 export const MenuButton = styled.div`
     width: 25px;
     display: flex;
