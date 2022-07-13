@@ -32,6 +32,6 @@ export const Title = styled.h1`
         color: #52d978;
     }
 `
-export const Button = styled.button`
+// export const Button = styled.button`
 
-`
+// `
