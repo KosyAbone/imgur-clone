@@ -14,8 +14,8 @@ function Header() {
         <Button>Sign in</Button>
         <Button>Sign up</Button>
       </NavBar>
-    {/* </StyledHeader>
+    </StyledHeader>
   )
 }
 
-export default Header */}
+export default Header
