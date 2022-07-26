@@ -1,4 +1,4 @@
-export const theme = {
-    primaryWhite: '#edf2ef',
+// export const theme = {
+//     primaryWhite: '#edf2ef',
 
-}
+// }
