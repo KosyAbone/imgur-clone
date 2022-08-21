@@ -9,12 +9,12 @@ function Header() {
     //       <div></div>
     //       <div></div>
     //       <div></div>
-    //     </MenuButton>
-    //     <Title><span>S</span>naps</Title>
-    //     <Button>Sign in</Button>
-    //     <Button>Sign up</Button>
-    //   </NavBar>
-    // </StyledHeader>
+        </MenuButton>
+        <Title><span>S</span>naps</Title>
+        <Button>Sign in</Button>
+        <Button>Sign up</Button>
+      </NavBar>
+    </StyledHeader>
   )
 }
 
