@@ -5,7 +5,7 @@ function Header() {
   return (
     <StyledHeader>
       <NavBar>
-         
+        <MenuButton> 
           <div></div>
           <div></div>
           <div></div>
