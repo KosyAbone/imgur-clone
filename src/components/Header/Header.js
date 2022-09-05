@@ -5,11 +5,11 @@ function Header() {
   return (
     <StyledHeader>
       <NavBar>
-        <MenuButton> 
+        {/* <MenuButton> 
           <div></div>
           <div></div>
           <div></div>
-        </MenuButton>
+        </MenuButton> */}
         <Title><span>S</span>naps</Title>
         <Button>Sign in</Button>
         <Button>Sign up</Button>
