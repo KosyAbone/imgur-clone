@@ -11,8 +11,8 @@ function Header() {
           <div></div>
         </MenuButton>
         <Title><span>S</span>naps</Title>
-        <Button>Sign in</Button>
-        <Button>Sign up</Button>
+        {/* <Button>Sign in</Button>
+        <Button>Sign up</Button> */}
       </NavBar>
     </StyledHeader>
   )
